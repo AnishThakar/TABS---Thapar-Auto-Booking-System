@@ -10,14 +10,18 @@ him on the requested date and time and then sends the vehicle to his place at th
 The Online taxi booking system is the online service which will automate the process of
 booking a taxi and will facilitate both the client and the company with reduced time and
 efforts.
+
+
 First the company will register his vehicles and the vehicles to the system. Then the client
 will request for booking a vehicle on his required date and time, providing all necessary
 information. The fare will be calculated and client should confirm it. Then the employee
 will serve the client on the specific date and time. Finally the client will have an
 opportunity to give a feedback for the service he got. The company can check it and take
 appropriate action for the future improvements.
-3
+
+
 PURPOSE
+
 The purpose of this SRS document is to specify software requirements of the Online Taxi
 Booking. It is intended to be a complete specification of what functionality the system
 provides. The main purpose of the system is to automate the process of booking a taxi
@@ -26,8 +30,10 @@ Document Conventions
  Items that are intended to stay in as part of your document are in bold
  Explanatory comments are in italic text.
  Plain text is used where you might insert wording about your project
-4
+
+
 PROJECT SCOPE
+
 This project’s aim is to automate the system, calculating the fare, collecting fare, collecting
 all necessary information of the client and then serve the client. The data used by the
 system is stored in a database that will be the centre of all information held clients and
